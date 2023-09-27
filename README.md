@@ -1,16 +1,12 @@
-### Hi there 👋
+## Welcome to my profile! 🇪🇪
 
-<!--
-**chm46e/chm46e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/chm46e/chm46e/blob/main/dino.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: finding my purpose
+- 🌱 I’m currently learning: more about github
+- 👯 I’m looking to collaborate on: some fun projects
+- 🤔 I’m looking for help with: Software Engineering in general
+- 💬 Ask me about: Linux From Scratch
+- 📫 How to reach me: discord: chm46e
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have no idea what i'm doing
